@@ -21,3 +21,4 @@ All the GCP infrastructure is set using Terraform as IaC and Mage.ai will run in
 -	Languages: Python & SQL
 
 ### Architecture & Final Result
+![image](https://github.com/migcas93/DEZoomcamp-7Magnificent/assets/82487681/66954aa7-5a93-40af-b6b1-3bc5f59c6291)
