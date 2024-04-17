@@ -22,3 +22,5 @@ All the GCP infrastructure is set using Terraform as IaC and Mage.ai will run in
 
 ### Architecture & Final Result
 ![image](https://github.com/migcas93/DEZoomcamp-7Magnificent/assets/82487681/66954aa7-5a93-40af-b6b1-3bc5f59c6291)
+
+![image](https://github.com/migcas93/DEZoomcamp-7Magnificent/assets/82487681/ba8f4f43-7434-4386-91a1-9eb2f1f2d13f)
