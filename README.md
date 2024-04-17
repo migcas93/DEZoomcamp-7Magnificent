@@ -14,8 +14,10 @@ All the GCP infrastructure is set using Terraform as IaC and Mage.ai will run in
 -	Infrastructure as Code (IaC): Terraform
 -	Containerization: Docker
 -	Batch Processing & Orchestration: Mage.ai
--	Transformation: DBT (within Mage.ai)
+-	Transformation: Mage.ai
 -	Data Lake: Google Cloud Storage
 -	Data Warehouse: Google Big Query
 -	Data Visualization: Google Locker
 -	Languages: Python & SQL
+
+### Architecture & Final Result
