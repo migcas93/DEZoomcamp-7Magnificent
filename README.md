@@ -160,6 +160,7 @@ When your pipeline is ready, the blocks will look like this:
 
 ![image](https://github.com/migcas93/DEZoomcamp-7Magnificent/assets/82487681/023b82f4-377c-4fd2-a9c7-68ffe56ea579)
 
+IMPORTANT**: On the "Data Exporter" blocks, you need to change the "table_id" variable for the name of your project in Google Cloud Platform ("project_name"."dataset_name"."table_name")
  
 #### 3.3 Scheduling the Trigger to run data pipeline hourly.
 In the data pipeline menu, look for a bar called “Triggers” where you can schedule the data pipeline running. For this use case, I scheduled the data pipeline trigger hourly as you can see in the example below.
