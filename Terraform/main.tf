@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  # To initialize the credentials use $env:GOOGLE_APPLICATION_CREDENTIALS= "C:\Users\migca\Desktop\Data_Eng_Test\terrademo\keys\my-creds.json"
+  # To initialize the credentials use $env:GOOGLE_APPLICATION_CREDENTIALS= "./my-creds.json"
   
   project = var.project
   region  = "us-central1"
